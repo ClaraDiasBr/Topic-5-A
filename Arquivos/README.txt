@@ -11,7 +11,7 @@ dt_setGlobalConstants.m ==> ak_transmitter.m ==> dt_channel.m ==> ak_receiver.m
 ## PAM over sound board
 1) Edit the file dt_setGlobalConstants.m and get familiar with the main simulation parameters. 
 
-2) Use an audio cable to connect your sound board digital-to-analog converter (DAC) to an analog-to-digital converter (ADC), 
+2) Use an audio cable (male P2-P2) to connect your sound board digital-to-analog converter (DAC) to an analog-to-digital converter (ADC), 
 which may be at the same or in another computer. 
 The computer using the DAC is the transmitter (Tx) and the one using the ADC is the receiver (Rx). 
 Test things trasmitting a song from Tx and listening it after recording with Rx, to proper set the audio volume to avoid signal saturation.
